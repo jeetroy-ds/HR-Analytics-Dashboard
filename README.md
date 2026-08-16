@@ -4,7 +4,7 @@ An interactive **HR Analytics Dashboard** developed using Power BI to analyze em
 
 The dashboard helps HR teams and business stakeholders monitor workforce performance and identify important patterns through interactive visualizations and KPIs.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to transform raw HR data into meaningful insights that can help organizations understand:
 
